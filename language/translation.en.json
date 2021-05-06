@@ -1,0 +1,15 @@
+{
+    "EMAIL_ALREADY_EXIST": "Requested email already registered",
+    "MSG_REGISTRATION_SUCCESS": "User registered successfully",
+    "ERR_NO_USER_FOUND": "No user found",
+    "ERR_PASSWORD_NOT_MATCHED": "Invalid password",
+    "ERR_UNAUTH": "Please sign in",
+    "ERR_TOKEN_EXP": "Your session is expired, please try login again",
+    "ERR_INTERNAL_SERVER": "Internal Server Error",
+    "MSG_LOGIN_SUCCESS": "User logged in successfully",
+    "ERR_BOOK_ALREADY_EXIST": "Requested book already exist",
+    "MSG_BOOK_ADDED": "Book details stored successfully",
+    "ERR_NO_BOOKS_FOUND": "No books found",
+    "MSG_BOOK_LIST_RETRIEVED": "Book list retrieved",
+    "MSG_DEVICE_ADDED": "Device registered successfully"
+}
